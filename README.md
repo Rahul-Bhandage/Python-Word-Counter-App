@@ -46,6 +46,13 @@ Follow these steps to set up and run the project locally:
 - `templates/`: HTML files for the app.
 - `static/`: Static files like CSS.
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### Results Page
+![Results Page](screenshots/results_page.png)
 ## Author
 
 - **Rahul Bhandage** - [GitHub](https://github.com/Rahul-Bhandage) - [LinkedIn](https://www.linkedin.com/in/rahulbhandage)
