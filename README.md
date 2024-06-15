@@ -43,14 +43,6 @@ Follow these steps to set up and run the project locally:
 
 ## Project Structure
 
-word_counter_app/
-static/
-    └── styles.css
-templates/
-        index.html
-    └── result.html
-app.py
-
 - `app.py`: Main Flask application.
 - `templates/`: HTML files for the app.
 - `static/`: Static files like CSS.
