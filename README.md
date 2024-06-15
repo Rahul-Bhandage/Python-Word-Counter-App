@@ -50,6 +50,7 @@ Follow these steps to set up and run the project locally:
 ## Author
 
 - **Rahul Bhandage** - [GitHub](https://github.com/Rahul-Bhandage)
+- - [LinkedIn](https://www.linkedin.com/in/rahulbhandage)
 
 ## Interests
 
