@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Counter App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="../static/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Word Counter App</h1>
+    </header>
+    <main class="container">
+        <form action="/analyze" method="POST">
+            <label for="text">Enter Text:</label><br>
+            <textarea id="text" name="text" rows="6" placeholder="Type or paste your text here"></textarea><br>
+            <button type="submit">Analyze Text</button>
+        </form>
+    </main>
+    <footer>
+        &copy; 2024 Word Counter App. All rights reserved | Rahul Bhandage.
+    </footer>
+</body>
+</html>
