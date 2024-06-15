@@ -16,10 +16,9 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/Python-Word-Counter-App.git
+    git clone https://github.com/Rahul-Bhandage/Python-Word-Counter-App.git
     cd Python-Word-Counter-App
     ```
-
 2. **Set up a virtual environment** (optional but recommended):
 
     ```bash
