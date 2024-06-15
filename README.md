@@ -45,12 +45,18 @@ Follow these steps to set up and run the project locally:
 
 word_counter_app/
 │
+
 ├── static/
-│ └── styles.css
+
+│ 
+    └── styles.css
 │
-├── templates/
-│ ├── index.html
-│ └── result.html
+├── 
+templates/
+│ 
+    ├── index.html
+│ 
+    └── result.html
 │
 └── app.py
 
